@@ -1,4 +1,3 @@
-import os
 from flask import Flask
 application = Flask(__name__)
 
